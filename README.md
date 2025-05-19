@@ -3,8 +3,6 @@
 
 # poetry-py-template
 
-<img src="https://github.com/ruankie/poetry-py-template/assets/58558211/beac2040-3db6-4ab5-a512-ef137a563140" width="240" />
-
 ## Description
 
 This is a minimal project template for Python projects that uses Poetry for dependency virtual environment management.
@@ -60,3 +58,7 @@ This is a minimal project template for Python projects that uses Poetry for depe
     ```shell
     poetry run pytest .
     ```
+
+---
+Author : [ruankie](https://github.com/ruankie/poetry-py-template/tree/main)  
+Find on GitHub  : https://github.com  
